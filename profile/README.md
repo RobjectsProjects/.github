@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+This organization contains an index to all different types of projects, made a part of the YouTube channel Robjects.
+Gallery of RobectsProjects (AKA Robjects) 
+
+### Index
+Please feel free to look through all types of projects linked below:
+- Machine Learning Repositories
+- Raspberry Pi Projects (Hardware/Software)
+
+#### Useful Resources 
+
+
+##### Linked Social 
 <!--
 
 **Here are some ideas to get you started:**
